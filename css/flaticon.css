@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 04/01/2019 13:45
+  	Creation date: 05/08/2018 08:44
   	*/
 
 
@@ -36,9 +36,8 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.flaticon-praying:before { content: "\f100"; }
-.flaticon-church:before { content: "\f101"; }
-.flaticon-bible:before { content: "\f102"; }
-.flaticon-social-care:before { content: "\f103"; }
-.flaticon-rings:before { content: "\f104"; }
-.flaticon-promotion:before { content: "\f105"; }
+.flaticon-cross:before { content: "\f100"; }
+.flaticon-maternity:before { content: "\f101"; }
+.flaticon-pray:before { content: "\f102"; }
+.flaticon-podcast:before { content: "\f103"; }
+.flaticon-planet-earth:before { content: "\f104"; }

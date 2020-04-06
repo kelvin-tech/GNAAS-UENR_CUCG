@@ -1,13 +1,12 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 17/01/2019 14:19
+  	Creation date: 05/08/2018 08:44
   	*/
 
 @font-face {
   font-family: "Flaticon";
   src: url("./Flaticon.eot");
   src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
-       url("./Flaticon.woff2") format("woff2"),
        url("./Flaticon.woff") format("woff"),
        url("./Flaticon.ttf") format("truetype"),
        url("./Flaticon.svg#Flaticon") format("svg");
@@ -25,14 +24,13 @@
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
 [class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
   font-family: Flaticon;
-        font-size: 20px;
+       /* font-size: 20px;
 font-style: normal;
-margin-left: 20px;
+margin-left: 20px;*/
 }
 
-.flaticon-praying:before { content: "\f100"; }
-.flaticon-church:before { content: "\f101"; }
-.flaticon-bible:before { content: "\f102"; }
-.flaticon-social-care:before { content: "\f103"; }
-.flaticon-rings:before { content: "\f104"; }
-.flaticon-promotion:before { content: "\f105"; }
+.flaticon-cross:before { content: "\f100"; }
+.flaticon-maternity:before { content: "\f101"; }
+.flaticon-pray:before { content: "\f102"; }
+.flaticon-podcast:before { content: "\f103"; }
+.flaticon-planet-earth:before { content: "\f104"; }
